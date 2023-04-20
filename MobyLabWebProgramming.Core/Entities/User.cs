@@ -7,6 +7,9 @@ namespace MobyLabWebProgramming.Core.Entities;
 /// </summary>
 public class User : BaseEntity
 {
+    /// <summary>
+    /// User has a one-to-many relation with Expense, Income, Bill and Saving
+    /// </summary>
     public string Name { get; set; } = default!;
     public string Email { get; set; } = default!;
     public string Password { get; set; } = default!;
@@ -18,4 +21,8 @@ public class User : BaseEntity
     /// Note that this field will be null if not explicitly requested via a Include query, also note that the property is used by the ORM, in the database this collection doesn't exist. 
     /// </summary>
     public ICollection<UserFile> UserFiles { get; set; } = default!;
+    public ICollection<Expense> Expenses { get; set; } = default!;
+    public ICollection<Saving> Savings { get; set; } = default!;
+    public ICollection<Income> Incomes { get; set; } = default!;
+    public ICollection<Bill> Bills { get; set; } = default!;
 }
