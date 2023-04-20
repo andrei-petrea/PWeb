@@ -1,0 +1,12 @@
+E:\Facultate\Anul4\Semestrul 2\dotnetbackend-main\dotnetbackend-main\MobyLabWebProgramming.Core\bin\Debug\net6.0\MobyLabWebProgramming.Core.deps.json
+E:\Facultate\Anul4\Semestrul 2\dotnetbackend-main\dotnetbackend-main\MobyLabWebProgramming.Core\bin\Debug\net6.0\MobyLabWebProgramming.Core.dll
+E:\Facultate\Anul4\Semestrul 2\dotnetbackend-main\dotnetbackend-main\MobyLabWebProgramming.Core\bin\Debug\net6.0\MobyLabWebProgramming.Core.pdb
+E:\Facultate\Anul4\Semestrul 2\dotnetbackend-main\dotnetbackend-main\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.csproj.AssemblyReference.cache
+E:\Facultate\Anul4\Semestrul 2\dotnetbackend-main\dotnetbackend-main\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Facultate\Anul4\Semestrul 2\dotnetbackend-main\dotnetbackend-main\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.AssemblyInfoInputs.cache
+E:\Facultate\Anul4\Semestrul 2\dotnetbackend-main\dotnetbackend-main\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.AssemblyInfo.cs
+E:\Facultate\Anul4\Semestrul 2\dotnetbackend-main\dotnetbackend-main\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.csproj.CoreCompileInputs.cache
+E:\Facultate\Anul4\Semestrul 2\dotnetbackend-main\dotnetbackend-main\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.dll
+E:\Facultate\Anul4\Semestrul 2\dotnetbackend-main\dotnetbackend-main\MobyLabWebProgramming.Core\obj\Debug\net6.0\refint\MobyLabWebProgramming.Core.dll
+E:\Facultate\Anul4\Semestrul 2\dotnetbackend-main\dotnetbackend-main\MobyLabWebProgramming.Core\obj\Debug\net6.0\MobyLabWebProgramming.Core.pdb
+E:\Facultate\Anul4\Semestrul 2\dotnetbackend-main\dotnetbackend-main\MobyLabWebProgramming.Core\obj\Debug\net6.0\ref\MobyLabWebProgramming.Core.dll
